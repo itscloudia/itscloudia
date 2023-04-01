@@ -11,7 +11,7 @@ I'm a back-end student from Brazil. Currently studying C# and the OOP paradigm.
 ## `Languages`
 
 - Portuguese: Native
-- English: Fluent
+- English: Advanced
 
 ## `Contact me`
 

@@ -4,8 +4,8 @@
 
 ## 📞💬📧 Contact Info
 
-[![Linkedin Badge](https://img.shields.io/badge/-itisclaudia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itisclaudia/)](https://www.linkedin.com/in/itisclaudia/)
-[![Gmail Badge](https://img.shields.io/badge/-itisclaudia1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itisclaudia1@gmail.com)](mailto:itisclaudia1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itisclaudia/)](https://www.linkedin.com/in/itisclaudia/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itisclaudia1@gmail.com)](mailto:itisclaudia1@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 

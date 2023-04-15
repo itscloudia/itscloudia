@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git">
   <br>
 </div>
 

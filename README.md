@@ -1,6 +1,6 @@
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Claudia!</h1>
-<p align = "justify">I'm a back-end student from Brazil. Currently focusing on Object-Oriented Programming (OOP) with C# and SQL Server.</p>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Claudia.</h1>
+<p align = "justify">I'm a development student from Brazil. Feel free to contact me and debate about anything.</p>
 
 ## 📞💬📧 Contact Info
 

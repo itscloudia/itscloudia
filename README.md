@@ -25,16 +25,12 @@
   <br>
   <br>
 </div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <div style='display: inline_block' align='center'>
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=700&size=30&pause=1000&color=A5E100&background=FF000000&center=true&width=435&lines=%E2%9A%A1Github+Stats%3A" alt="Typing SVG" /></a>
 </p>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=itscloudia&count_private=true&show_icons=true&theme=merko&hide=stars&include_all_commits=true">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=itscloudia&count_private=true&show_icons=true&theme=merko&hide=stars&include_all_commits=true"> 
   <br>
 </div>
 <br>

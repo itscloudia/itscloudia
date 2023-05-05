@@ -19,11 +19,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=700&size=30&pause=1000&color=A5E100&background=FF000000&center=true&width=435&lines=Here's+my+contact+info%3A" alt="Typing SVG"/>
  </a>
 </p>
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itisclaudia/">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:itisclaudia1@gmail.com">
-  <br>
-  <br>
+ <a href="mailto:itisclaudia1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
+  </a>
+ &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/itisclaudia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
+  </a>
+  <br><br>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div style='display: inline_block' align='center'>
